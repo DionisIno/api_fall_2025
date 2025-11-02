@@ -1,6 +1,6 @@
 import requests
 import allure
-from test_log import log
+from log import log
 
 @allure.epic("Test allure")
 class TestAllure:
